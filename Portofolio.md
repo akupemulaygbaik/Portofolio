@@ -1,4 +1,4 @@
-# Rangga | Security Researcher
+# 🛡️ Rangga | Smart Contract & Blockchain Security Researcher
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Rangga&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Smart%20Contract%20Security%20Researcher&descAlignY=58&descSize=20" />
@@ -14,23 +14,23 @@
 
 ---
 
-## About Me
+## 👋 About Me
 
-I'm a Smart Contract Security Researcher focused on identifying security vulnerabilities in blockchain systems and EVM-based smart contracts.
+I'm a **Smart Contract Security Researcher** focused on identifying security vulnerabilities in blockchain systems and EVM-based smart contracts.
 
-My primary focus is Solidity and smart contract security, with additional experience working with blockchain technologies and systems-level development.
+My primary focus is **Solidity and smart contract security**, with additional experience working with blockchain technologies and systems-level development.
 
 I enjoy breaking down complex protocols, understanding their intended behavior, and finding the assumptions that can fail under adversarial conditions.
 
 ---
 
-## Security Experience
+## 🔐 Security Experience
 
 ### Audit Contests
 
 I've participated in smart contract security audit contests and received multiple valid findings.
 
-Selected results:
+**Selected results:**
 
 | Platform | Protocol | Severity | Result |
 |---|---|---:|---|
@@ -45,19 +45,20 @@ Additional contest results and rankings are available through the respective pub
 
 ### Bug Bounty
 
-Immunefi
+**Immunefi**
 
-- Protocol: Olympus
-- Severity: Low
-- Status: Accepted & Paid
+- Protocol: **Olympus**
+- Severity: **Low**
+- Status: **Accepted & Paid**
 
 I have also participated in blockchain security bug bounty programs and identified additional vulnerabilities, including findings that were later marked as duplicates.
 
-Only publicly verifiable and non-sensitive information is included here. Detailed reports, PoCs, private disclosures, and information that could compromise affected projects are intentionally omitted.
+> Only publicly verifiable and non-sensitive information is included here.
+> Detailed reports, PoCs, private disclosures, and information that could compromise affected projects are intentionally omitted.
 
 ---
 
-## Areas of Expertise
+## 🧠 Areas of Expertise
 
 ### Smart Contract Security
 
@@ -67,12 +68,12 @@ Only publicly verifiable and non-sensitive information is included here. Detaile
 - DeFi security
 - Access control
 - Business logic vulnerabilities
-- State and accounting inconsistencies
+- State/accounting inconsistencies
 - Reentrancy analysis
 - Economic attack surfaces
 - Protocol-level security review
 
-### Blockchain and Systems
+### Blockchain & Systems
 
 - Go
 - Rust
@@ -84,7 +85,7 @@ Only publicly verifiable and non-sensitive information is included here. Detaile
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
 
@@ -92,7 +93,7 @@ Only publicly verifiable and non-sensitive information is included here. Detaile
 
 </p>
 
-Security and Development
+**Security & Development**
 
 ```text
 Solidity
@@ -105,27 +106,27 @@ Rust
 
 ---
 
-Security Track Record
+📊 Security Track Record
 
-Multiple smart contract audit contests
+🛡️ Multiple smart contract audit contests
 
-Multiple valid security findings
+🔎 Multiple valid security findings
 
-3 Medium findings in Code4rena contests
+🟠 3 Medium findings in Code4rena contests
 
-1 Low finding in Code4rena
+🟡 1 Low finding in Code4rena
 
-Accepted and paid Immunefi bug bounty
+💰 Accepted & paid Immunefi bug bounty
 
-Additional blockchain security research experience
+🔬 Additional blockchain security research experience
 
-Experience identifying duplicate findings in competitive security environments
+🧩 Experience identifying duplicate findings in competitive security environments
 
 
 
 ---
 
-What I Can Help With
+🎯 What I Can Help With
 
 Smart Contract Security Audit
 
@@ -161,7 +162,7 @@ Verification of fixes after vulnerabilities have been addressed.
 
 ---
 
-Portfolio
+📁 Portfolio
 
 More detailed, non-sensitive write-ups will be organized in:
 
@@ -182,26 +183,26 @@ Detailed vulnerability information will only be published when disclosure is app
 
 ---
 
-Audit Methodology
+🧪 Audit Methodology
 
 My approach generally follows:
 
 1. Understand the protocol
-          |
+          ↓
 2. Map trust boundaries
-          |
+          ↓
 3. Identify critical invariants
-          |
+          ↓
 4. Review state transitions
-          |
+          ↓
 5. Analyze attack surfaces
-          |
+          ↓
 6. Test adversarial scenarios
-          |
+          ↓
 7. Validate findings
-          |
+          ↓
 8. Produce clear reports
-          |
+          ↓
 9. Retest fixes
 
 The goal is not simply to find bugs, but to understand how the protocol behaves when an adversary intentionally violates its assumptions.
@@ -209,26 +210,23 @@ The goal is not simply to find bugs, but to understand how the protocol behaves 
 
 ---
 
-Contact
+📫 Contact
 
 For security reviews, collaborations, or research opportunities:
 
 GitHub:
-
 https://github.com/YOUR_USERNAME
 
 X:
-
 https://x.com/YOUR_USERNAME
 
 Email:
-
 YOUR_EMAIL@example.com
 
 
 ---
 
-Responsible Disclosure
+⚠️ Responsible Disclosure
 
 This portfolio intentionally avoids publishing confidential vulnerability information.
 
