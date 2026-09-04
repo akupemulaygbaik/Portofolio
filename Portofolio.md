@@ -101,7 +101,7 @@ Hardhat
 EVM
 Go
 Rust
-
+```
 
 ---
 
@@ -240,4 +240,3 @@ No private reports, unpublished vulnerabilities, exploit PoCs, or sensitive proj
 <p align="center">Smart contracts are deterministic. Attackers are creative.
 
 </p>
-```
