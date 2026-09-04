@@ -38,6 +38,7 @@ I've participated in smart contract security audit contests and received multipl
 | Code4rena | Rujira | Medium | Valid Finding |
 | Code4rena | K2 | Medium | Valid Finding |
 | Code4rena | K2 | Low | Valid Finding |
+| Code4rena | Sequence: Transaction Rails| Low | Valid Finding |
 
 Additional contest results and rankings are available through the respective public contest records.
 
@@ -55,6 +56,46 @@ I have also participated in blockchain security bug bounty programs and identifi
 
 > Only publicly verifiable and non-sensitive information is included here.
 > Detailed reports, PoCs, private disclosures, and information that could compromise affected projects are intentionally omitted.
+
+---
+
+## Other Experiences
+
+- Protocol: **Boba Network**
+- Category: **Smart Contract**
+- Language: **Solidity**
+- Severity: **Critical**
+- Status: **Duplicate**
+
+- Protocol: **BNB Greenfield**
+- Category: **Blockchain**
+- Language: **Go**
+- Severity: **High**
+- Status: **Duplicate**
+
+- Protocol: **BSC(reth-bsc)**
+- Category: **Blockchain**
+- Language: **Rust**
+- Severity: **High**
+- Status: **Duplicate**
+
+- Protocol: **Babylons**
+- Category: **Blockchain**
+- Language: **Rust**
+- Severity: **Medium**
+- Status: **Duplicate**
+
+- Protocol: **TreeHouse Smart Contract**
+- Category: **Smart Contrack**
+- Language: **Solidity**
+- Severity: **Low**
+- Status: **Duplicate**
+
+- Protocol: **Treshold Network**
+- Category: **Smart Contract**
+- Language: **Solidity**
+- Severity: **Low**
+- Status: **Duplicate**
 
 ---
 
