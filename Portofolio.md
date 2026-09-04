@@ -16,7 +16,7 @@
 
 ## 👋 About Me
 
-I'm a **Smart Contract Security Researcher** focused on identifying security vulnerabilities in blockchain systems and EVM-based smart contracts.
+I'm a **Smart Contract & Blockchain Security Researcher** focused on identifying security vulnerabilities in blockchain systems and EVM-based smart contracts.
 
 My primary focus is **Solidity and smart contract security**, with additional experience working with blockchain technologies and systems-level development.
 
