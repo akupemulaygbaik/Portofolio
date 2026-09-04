@@ -1,7 +1,7 @@
 # 🛡️ Rangga | Smart Contract & Blockchain Security Researcher
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Rangga&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Smart%20Contract%20and%20Security%20Researcher&descAlignY=58&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=220&section=header&text=Rangga&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher&descAlignY=58&descSize=20" />
 </p>
 
 <p align="center">
