@@ -57,41 +57,14 @@ I have also participated in blockchain security bug bounty programs and identifi
 
 ## Other Experiences
 
-- Protocol: **Boba Network**
-- Category: **Smart Contract**
-- Language: **Solidity**
-- Severity: **Critical**
-- Status: **Duplicate**
-
-- Protocol: **BNB Greenfield**
-- Category: **Blockchain**
-- Language: **Go**
-- Severity: **High**
-- Status: **Duplicate**
-
-- Protocol: **BSC(reth-bsc)**
-- Category: **Blockchain**
-- Language: **Rust**
-- Severity: **High**
-- Status: **Duplicate**
-
-- Protocol: **Babylons**
-- Category: **Blockchain**
-- Language: **Rust**
-- Severity: **Medium**
-- Status: **Duplicate**
-
-- Protocol: **TreeHouse Smart Contract**
-- Category: **Smart Contrack**
-- Language: **Solidity**
-- Severity: **Low**
-- Status: **Duplicate**
-
-- Protocol: **Treshold Network**
-- Category: **Smart Contract**
-- Language: **Solidity**
-- Severity: **Low**
-- Status: **Duplicate**
+| Platform | Protocol | Category | Language | Severity | Result |
+|---|---|---|---|---:|---|
+| Immunefi | Boba Network | Smart Contract | Solidity | Critical | Duplicate |
+| BNB Bug Bounty Program | BNB Greenfield | Blockchain | Go | High | Duplicate |
+| BNB Bug Bounty Program | BSC (reth-bsc) | Blockchain | Rust | High | Duplicate |
+| Github Private Vulnerability Disclosure | Babylons | Blockchain | Rust | Medium | Duplicate |
+| Hackenproof | TreeHouse Smart Contract | Smart Contract | Solidity | Low | Duplicate |
+| Immunefi | Threshold Network | Smart Contract | Solidity | Low | Duplicate |
 
 ---
 
