@@ -1,15 +1,3 @@
-# 🛡️ Rangga | Smart Contract & Blockchain Security Researcher
-
-<p align="center">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
-  </a>
-  <img src="https://img.shields.io/badge/Solidity-Security-363636?style=for-the-badge&logo=solidity" />
-  <img src="https://img.shields.io/badge/Foundry-Audit-1C1C1C?style=for-the-badge" />
-</p>
-
----
-
 ## 👋 About Me
 
 I'm a **Smart Contract & Blockchain Security Researcher** focused on identifying security vulnerabilities in blockchain systems and EVM-based smart contracts.
