@@ -172,27 +172,6 @@ Verification of fixes after vulnerabilities have been addressed.
 
 ---
 
-📁 Portfolio
-
-More detailed, non-sensitive write-ups will be organized in:
-
-audit-portfolio/
-│
-├── README.md
-│
-├── findings/
-│   ├── code4rena/
-│   ├── immunefi/
-│   └── research/
-│
-└── methodology/
-    └── audit-methodology.md
-
-Detailed vulnerability information will only be published when disclosure is appropriate and permitted.
-
-
----
-
 🧪 Audit Methodology
 
 My approach generally follows:
@@ -225,13 +204,13 @@ The goal is not simply to find bugs, but to understand how the protocol behaves 
 For security reviews, collaborations, or research opportunities:
 
 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/akupemulaygbaik
 
 X:
-https://x.com/YOUR_USERNAME
+https://x.com/akupemulaygbaik
 
 Email:
-YOUR_EMAIL@example.com
+rangga.maulana7347@gmail.com
 
 
 ---
@@ -241,10 +220,3 @@ YOUR_EMAIL@example.com
 This portfolio intentionally avoids publishing confidential vulnerability information.
 
 No private reports, unpublished vulnerabilities, exploit PoCs, or sensitive project information are disclosed without appropriate authorization.
-
-
----
-
-<p align="center">Smart contracts are deterministic. Attackers are creative.
-
-</p>
